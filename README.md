@@ -3,6 +3,8 @@ As an absolute beginner in cybersecurity who has attempted some easy Capture-The
 
 Since this repository is a collection of several mini-projects, each directory represents a standalone project that are meant to perform a particular task. Mini-projects range from defensive to offensive cybersecurity, and cover a variety of fundamental concepts such as computer networking, cryptography, exploits, and more.
 
+Some projects are implemented multiple times in different programming languages for learning purposes.
+
 ## Table of Contents
 - RSA Algorithm: [Coming Soon]
 - Caesar Cipher: [Coming Soon]
